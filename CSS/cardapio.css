@@ -40,6 +40,10 @@
     top: -10px;
     border-radius: 0px 37.5px 0px 42.5px;
 }
+.card-heart i:hover{
+    cursor: pointer;
+    color: red;
+}
 .card-imagem{
     width: 300px;
     margin-top: 5%;
